@@ -1,4 +1,4 @@
-# Webové stránky [Zdenek Kreml](https://zkreml.cz) 
+#  [Osobní webové stránky](https://zkreml.cz) 
 
 ## Úvod
 Tento projekt je webová stránka pro Zdenka Kremla, která obsahuje...
