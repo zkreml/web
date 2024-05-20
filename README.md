@@ -1,4 +1,4 @@
-# Web zkreml.cz
+# Webové stránky [Zdenek Kreml](https://zkreml.cz) 
 
 ## Úvod
 Tento projekt je webová stránka pro Zdenka Kremla, která obsahuje...
@@ -18,5 +18,3 @@ Pro spuštění projektu lokálně naklonujte repo a otevřete index.html v proh
 ## Použití
 Klikněte na odkazy v navigaci pro zobrazení různých sekci...
 
-## Poděkování
-Děkuji [ChatGPT](https://www.openai.com) za pomoc s vývojem tohoto projektu.
