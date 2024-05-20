@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Zdenek Kreml</title>
+    <link rel="stylesheet" type="text/css" href="styly.css">
+    <script src="https://kit.fontawesome.com/88bcdf51c5.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <h1>Zdenek Kreml</h1>
+        <img src="profilovka/archos.jpg" alt="Můj obrázek">
+        <h2>O mně</h2>
+    </header>
+    
+    <div class="centered-text">
+        <p>Jsem členem komunity <a href="https://arch-linux.cz" target="_blank">Arch Linux CZ</a> a nadšeným podporovatelem open source.</p>
+        <p>Moje záliba v technologiích sahá od operačních systémů jako Arch Linux až po bezpečnostně orientované mobilní platformy jako GrapheneOS.</p>
+        <p>Jako <strong>Open Source Nadšenec</strong>, věřím v sílu otevřeného softwaru a jsem aktivním přispěvatelem do jeho komunity.</p>
+    </div>
+    
+    <main class="flex-container">
+        <a href="#" class="flex-item" onclick="showContent('social')">Sociální sítě</a>
+        <a href="#" class="flex-item" onclick="showContent('opensource')">Open Source</a>
+        <a href="#" class="flex-item" onclick="showContent('contact')">Kontakt</a>
+    </main>
+    
+    <div id="dynamic-content"></div>
+    
+    <footer>
+    <p>
+        <a href="/" class="name-link" style="text-decoration: none; color: inherit;">&copy; 2024 Zdenek Kreml</a> 
+        | <a href="https://git.arch-linux.cz/Archos/web_zkreml" target="_blank"><i class="fab fa-git-alt"></i> Gitea</a>
+    </p>
+    </footer>
+
+    <script src="skripty.js"></script>
+</body>
+</html>
